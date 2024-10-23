@@ -1,2 +1,2 @@
 First text
-made change from Branch 1s
+made change in branch 2s
